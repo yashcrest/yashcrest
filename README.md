@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/yashcrest" target="blank"><img src="https://img.shields.io/twitter/follow/yashcrest?logo=twitter&style=for-the-badge" alt="yashcrest" /></a> </p>
 
-- 🔭 I’m currently working on [React E-Commerce](https://github.com/yashcrest/React-E-Commerce)
+- 🔭 I’m currently working on [MERN Chat Application](https://github.com/yashcrest/chat_app)
 
 - 🌱 I’m currently learning **LLM**
 
