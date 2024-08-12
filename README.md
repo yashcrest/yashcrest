@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Shrestha</h1>
-<h3 align="center">Full Stack Software Developer</h3>
+<h3 align="center"> Aspiring Full Stack Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashcrest&label=Profile%20views&color=0e75b6&style=flat" alt="yashcrest" /> </p>
 
@@ -9,17 +9,15 @@
 
 - 🔭 I’m currently working on [MERN Chat Application](https://github.com/yashcrest/chat_app)
 
-- 🌱 I’m currently learning **LLM**
-
-- 👯 I’m looking to collaborate on [DocsGPT](https://github.com/yashcrest/DocsGPT)
+- 🌱 I’m currently learning **MERN STACK**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yashcrest](https://github.com/yashcrest)
 
-- 📝 I regularly write articles on [yashshrestha.net/blogs](yashshrestha.net/blogs)
+- 📝 I regularly write articles on [Medium](https://medium.com/@yashcrest)
 
-- 💬 Ask me about **React, Vue, JavaScript, Redux Toolkit,**
+- 💬 Ask me about **React, AZURE APP SERVICE, Redux Toolkit, NodeJS, MongoDB, AZURE**
 
-- 📫 How to reach me **hello@yashshrestha.net**
+- 📫 How to reach me **contact@yashshrestha.net**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
