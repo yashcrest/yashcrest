@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on [MERN Chat Application](https://github.com/yashcrest/chat_app)
 
-- 🌱 I’m currently learning **MERN STACK**
-
 - 👨‍💻 All of my projects are available at [https://github.com/yashcrest](https://github.com/yashcrest)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@yashcrest)
