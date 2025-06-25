@@ -1,1 +1,1 @@
-`Hi, I love web.`
+`I hate hyperlinks on blogs.`
